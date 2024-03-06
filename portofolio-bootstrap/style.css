@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 5rem;
+  background: linear-gradient(#844d6c, #ffffff);
+}
+
+footer {
+  padding: 8rem;
+  text-align: center;
+  background: linear-gradient(#ffffff, #844d6c);
+}
+
+section {
+  padding-top: 5rem;
+}
